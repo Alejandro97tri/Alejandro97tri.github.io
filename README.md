@@ -65,7 +65,7 @@ Mis tareas principales eran:
 ## Contacto
 
 
-* *Número de teléfono:* 662168003
+* *Número de teléfono:* [662168003](tel:alejandrof97g8@gmail.com)
 * *Correo:* [alejandrof97g8@gmail.com](mailto:alejandrof97g8@gmail.com)
 * *LinkedIn:* [Alejandro Ferrer](https://www.linkedin.com/in/a-ferrer/)
 
