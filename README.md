@@ -55,9 +55,9 @@ Actualmente, estudio Desarrollo de Aplicaciones web en el IES Severo Ochoa (Elch
 |HTML|Alto|
 |PHP|Alto|
 
-## Mas información
+## Más información
 
-* Carné de conducir.
+* Carnet de conducir.
 * Vehículo propio.
 * Disponibilidad horaria.
 
