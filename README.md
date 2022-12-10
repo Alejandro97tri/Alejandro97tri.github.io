@@ -31,7 +31,7 @@ Mis tareas principales eran:
 
 ## Mis datos académicos
 
-Estudié Sistemas Microinformáticos y Redes en el IES Historiador Chabás (Denia)
+Estudié Sistemas Microinformáticos y Redes en el IES Historiador Chabás (Denia)  
 Actualmente, estudio Desarrollo de Aplicaciones web en el IES Severo Ochoa (Elche)
 
 ## Mis idiomas
