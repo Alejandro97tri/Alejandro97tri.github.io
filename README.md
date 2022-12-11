@@ -20,7 +20,7 @@ Mis tareas principales eran:
 
 ### Ferrocanor Aluminis (Benissa)
 
-He trabajado durante dos años y medio en una empresa de metalurgia donde he aprendido muchos valores, a trabajar en equipo y a seguir un tiempos marcados de entregas.
+He trabajado durante dos años y medio en una empresa de metalurgia donde he aprendido muchos valores, a trabajar en equipo y a seguir tiempos marcados de entregas.
 
 Mis tareas principales eran:
 
@@ -65,7 +65,7 @@ Mis tareas principales eran:
 ## Contacto
 
 
-* *Número de teléfono:* [662168003](tel:alejandrof97g8@gmail.com)
+* *Número de teléfono:* [662168003](tel:+34662168003)
 * *Correo:* [alejandrof97g8@gmail.com](mailto:alejandrof97g8@gmail.com)
 * *LinkedIn:* [Alejandro Ferrer](https://www.linkedin.com/in/a-ferrer/)
 
