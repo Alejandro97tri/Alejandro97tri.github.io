@@ -31,7 +31,7 @@ Mis tareas principales eran:
 
 ## Mis datos académicos
 
-* Sistemas Microinformáticos y Redes en el IES Historiador Chabás (2019-2021, Denia)
+* Sistemas Microinformáticos y Redes en el IES Historiador Chabás, Nota: 10 (2019-2021, Denia) 
 * Desarrollo de Aplicaciones web en el IES Severo Ochoa (Actualmente, Elche)
 
 
