@@ -55,6 +55,7 @@ Mis tareas principales eran:
 |Mysql|Alto|
 |HTML|Alto|
 |PHP|Alto|
+|Wordpress|Alto|
 
 ## Más información
 
