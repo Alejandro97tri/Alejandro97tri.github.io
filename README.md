@@ -7,6 +7,17 @@ Mi nombre es Alejandro Ferrer. Tengo 25 años y actualmente estoy cursando el gr
 
 ## Experiencia laboral
 
+### Soluciona IT (ELCHE)
+
+Desde el comienzo de mis practicas DUAL y pasando por las FCT estoy trabajando en esta empresa donde he podido trabajar en distintos proyectos aprendiendo de cada uno de mis compañeros y compañeras.
+
+Mis tareas principales eran:
+
+* Desarrollo frontend.
+* Maquetación de aplicaciones web.
+* Desarrollo backend.
+* Control de versiones.
+
 ### Laptop Lab Back From The Future (Dublín)
 
 He trabajado durante seis meses en una empresa de reparacin de dispositivos donde he aprendido como repararlos. Además, he gestionado productos de la página web y he mejorado mi inglés.
