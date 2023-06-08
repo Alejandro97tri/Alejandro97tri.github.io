@@ -7,7 +7,7 @@ Mi nombre es Alejandro Ferrer. Tengo 25 años y actualmente estoy cursando el gr
 
 ## Experiencia laboral
 
-### Soluciona IT (ELCHE)
+### Soluciona IT (Elche)
 
 Desde el comienzo de mis practicas DUAL y pasando por las FCT estoy trabajando en esta empresa donde he podido trabajar en distintos proyectos aprendiendo de cada uno de mis compañeros y compañeras.
 
