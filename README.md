@@ -2,7 +2,7 @@
 
 ## Quién soy
 
-Mi nombre es Alejandro Ferrer. Tengo 25 años y actualmente estoy cursando el grado superior de **Desarrollo de aplicaciones web**. Me considero una persona a la que le encanta aprender y crecer profesionalmente. Me gusta mucho trabajar en equipo y bajo presión, esto me motiva a salir de los problemas de forma resolutiva. Además, estoy constantemente aprendiendo para poder aprovechar los recursos de la mejor forma posible y sacar el mayor partido a mi aprendizaje.
+¡Hola! Soy Alejandro Ferrer, un **desarrollador de aplicaciones web** apasionado y en constante crecimiento. Con experiencia en entornos exigentes, me destaco por mi habilidad para trabajar en equipo, resolver problemas bajo presión y aprovechar al máximo los recursos disponibles. Siempre al tanto de las últimas tendencias, mi enfoque se centra en crear soluciones innovadoras que superen expectativas. Me emociona formar parte de un equipo dinámico donde pueda contribuir y seguir desarrollándome profesionalmente.
 
 
 ## Experiencia laboral
