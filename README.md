@@ -63,6 +63,7 @@ Mis tareas principales eran:
 |Django|Alto|
 |JavaScript|Alto|
 |Angular|Alto|
+|Node|Medio|
 |CSS|Medio|
 |Mysql|Alto|
 |SQL|Medio|
