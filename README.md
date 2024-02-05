@@ -67,6 +67,7 @@ Mis tareas principales eran:
 |CSS|Medio|
 |Mysql|Alto|
 |SQL|Medio|
+|GraphQl|Medio|
 |HTML|Alto|
 |PHP|Alto|
 |Wordpress|Alto|
