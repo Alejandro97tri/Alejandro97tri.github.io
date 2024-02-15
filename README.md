@@ -59,18 +59,17 @@ Mis tareas principales eran:
 
 |Programa|Nivel|
 | --- | --- |
+|HTML|Alto|
+|CSS|Medio|
+|PHP|Alto|
 |Java|Alto|
-|Django|Alto|
 |JavaScript|Alto|
+|Django|Alto|
 |Angular|Alto|
 |Node|Medio|
-|CSS|Medio|
-|Mysql|Alto|
+|Microsoft SQL|Medio|
 |SQL|Medio|
 |GraphQl|Medio|
-|HTML|Alto|
-|PHP|Alto|
-|Wordpress|Alto|
 
 ## Más información
 
