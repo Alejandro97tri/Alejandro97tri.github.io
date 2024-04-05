@@ -61,7 +61,9 @@ Mis tareas principales eran:
 | --- | --- |
 |HTML|Alto|
 |CSS|Medio|
-|PHP|Alto|
+|Bootstrap|Alto|
+|Tailwind|Alto|
+|PHP|Medio|
 |Java|Alto|
 |JavaScript|Alto|
 |Django|Alto|
@@ -70,6 +72,7 @@ Mis tareas principales eran:
 |Microsoft SQL|Medio|
 |SQL|Medio|
 |GraphQl|Medio|
+|Jest|Bajo|
 
 ## Más información
 
