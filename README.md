@@ -11,7 +11,7 @@
 
 Desde el comienzo de mis practicas DUAL y pasando por las FCT estoy trabajando en esta empresa donde he podido trabajar en distintos proyectos aprendiendo de cada uno de mis compañeros y compañeras.
 
-Mis tareas principales eran:
+Mis tareas principales son:
 
 * Desarrollo frontend.
 * Maquetación de aplicaciones web.
