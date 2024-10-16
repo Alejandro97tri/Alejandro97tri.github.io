@@ -24,7 +24,7 @@ Mis tareas principales son:
 
 ### Laptop Lab Back From The Future (Dublín)
 
-He trabajado durante seis meses en una empresa de reparacin de dispositivos donde he aprendido como repararlos. Además, he gestionado productos de la página web y he mejorado mi inglés.
+He trabajado durante seis meses en una empresa de reparación de dispositivos donde he aprendido como diagnosticarlos y repararlos. Además, he gestionado productos de la página web y he mejorado mi inglés.
 
 ### Ferrocanor Aluminis (Benissa)
 
