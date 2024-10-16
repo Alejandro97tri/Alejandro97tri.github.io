@@ -2,7 +2,11 @@
 
 ## Quién soy
 
-¡Hola! Soy Alejandro Ferrer, un **desarrollador de aplicaciones web** apasionado y en constante crecimiento. Con experiencia en entornos exigentes, me destaco por mi habilidad para trabajar en equipo, resolver problemas bajo presión y aprovechar al máximo los recursos disponibles. Siempre al tanto de las últimas tendencias, mi enfoque se centra en crear soluciones innovadoras que superen expectativas. Me emociona formar parte de un equipo dinámico donde pueda contribuir y seguir desarrollándome profesionalmente.
+¡Hola! Soy Alejandro Ferrer, con **dos años de experiencia en el desarrollo front-end**. Me especializo en la creación de soluciones web utilizando frameworks modernos como Angular, APIs RESTful, GraphQL, y en la optimización de bases de datos con SQL.
+
+Una de mis principales fortalezas es la **gestión autónoma de proyectos**: desde la planificación hasta la implementación y entrega, liderando todas las etapas del desarrollo por mi cuenta, asegurando calidad y cumplimiento de plazos. He trabajado en entornos exigentes, donde me destaco por mi adaptabilidad, creatividad y resolución ágil de problemas, tanto en equipo como de forma independiente.
+
+Mi enfoque está siempre en **aprender y aplicar las últimas tecnologías**, buscando crear soluciones eficientes y escalables que superen las expectativas. Estoy emocionado por contribuir en equipos dinámicos donde pueda seguir desarrollándome y aportar mi experiencia en el desarrollo web.
 
 
 ## Experiencia laboral
@@ -24,10 +28,10 @@ He trabajado durante seis meses en una empresa de reparacin de dispositivos dond
 
 Mis tareas principales eran:
 
-* Mantenimiento de equipos.
-* Reparación de equipos.
-* Micro-soldadura de chips.
-* Gestión de productos en la página web.
+* Desarrollo front-end: Implementación de interfaces de usuario eficientes desde cero utilizando Angular, asegurando un rendimiento óptimo y una experiencia de usuario fluida.
+* Maquetación web: Desarrollo de aplicaciones web responsive utilizando Bootstrap y TailwindCSS, adaptando los diseños a diversos dispositivos y resoluciones.
+* Desarrollo back-end: Integración y desarrollo de APIs RESTful y GraphQL, garantizando la conexión eficiente entre el front-end y back-end.
+* Control de versiones: Gestión del código fuente mediante Git, manteniendo un control riguroso de versiones y facilitando la colaboración en equipo y la integración continua.
 
 ### Ferrocanor Aluminis (Benissa)
 
@@ -50,9 +54,9 @@ Mis tareas principales eran:
 
 | Idioma | Nivel |
 | --- | --- |
-|Castellano| nativo |
-| Valenciano| nativo |
-|Inglés| medio |
+|Castellano| C2 |
+| Valenciano| C2 |
+|Inglés| B1 |
 
 
 ## Mis programas
@@ -66,9 +70,10 @@ Mis tareas principales eran:
 |PHP|Medio|
 |Java|Alto|
 |JavaScript|Alto|
+|TypeScript|Alto|
 |Django|Alto|
 |Angular|Alto|
-|Node|Medio|
+|Node|Bajo|
 |Microsoft SQL|Medio|
 |SQL|Medio|
 |GraphQl|Medio|
