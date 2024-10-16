@@ -17,32 +17,18 @@ Desde el comienzo de mis practicas DUAL y pasando por las FCT estoy trabajando e
 
 Mis tareas principales son:
 
-* Desarrollo frontend.
-* Maquetación de aplicaciones web.
-* Desarrollo backend.
-* Control de versiones.
-
-### Laptop Lab Back From The Future (Dublín)
-
-He trabajado durante seis meses en una empresa de reparacin de dispositivos donde he aprendido como repararlos. Además, he gestionado productos de la página web y he mejorado mi inglés.
-
-Mis tareas principales eran:
-
 * Desarrollo front-end: Implementación de interfaces de usuario eficientes desde cero utilizando Angular, asegurando un rendimiento óptimo y una experiencia de usuario fluida.
 * Maquetación web: Desarrollo de aplicaciones web responsive utilizando Bootstrap y TailwindCSS, adaptando los diseños a diversos dispositivos y resoluciones.
 * Desarrollo back-end: Integración y desarrollo de APIs RESTful y GraphQL, garantizando la conexión eficiente entre el front-end y back-end.
 * Control de versiones: Gestión del código fuente mediante Git, manteniendo un control riguroso de versiones y facilitando la colaboración en equipo y la integración continua.
 
+### Laptop Lab Back From The Future (Dublín)
+
+He trabajado durante seis meses en una empresa de reparacin de dispositivos donde he aprendido como repararlos. Además, he gestionado productos de la página web y he mejorado mi inglés.
+
 ### Ferrocanor Aluminis (Benissa)
 
 He trabajado durante dos años y medio en una empresa de metalurgia donde he aprendido muchos valores, a trabajar en equipo y a seguir tiempos marcados de entregas.
-
-Mis tareas principales eran:
-
-* Soldadura TIG y MIG.
-* Montaje de productos de hierro y aluminio.
-* Instalación de productos de hierro y aluminio.
-
 
 ## Mis datos académicos
 
